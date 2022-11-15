@@ -32,7 +32,7 @@ def main():
                 # increment counter by 1
                 counter += 1
 
-                # tell the user hoe many times the code runs through the loop
+                # tell the user how many times the code runs through the loop
                 print(f"Tracking through the loop {counter} times")
 
             # output the result of the program
